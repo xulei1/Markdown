@@ -3,7 +3,5 @@
 ## 这是二级标题</br>
 * red
 * blue
-* black</br>
-*******
-  color
-  ![Alt text](/D/xulei3/b.jpg)
+* black
+这个是一个*强调语句*
